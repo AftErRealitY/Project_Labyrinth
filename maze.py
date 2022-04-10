@@ -107,5 +107,5 @@ while game:
             kick.play()
     clock.tick(fps)
     display.update()
-    
+    #end
 
